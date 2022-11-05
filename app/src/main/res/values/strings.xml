@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoRa Chat</string>
+    <string name="devices">USB Devices</string>
+</resources>
